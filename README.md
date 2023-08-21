@@ -4,13 +4,14 @@ this project made with flutter using Cubit, Firebase Authintication, Firebase Fi
 
 ## Features
 
-Add-Romove Product
-Show Categores
-Show ProductList
-Show Developer Data
-About Application
+* Add-Romove Product
+* Show Categores
+* Show ProductList
+* Show Developer Data
+* About Application
 
 ## ScreenShots
+
 ### 1- WalkThrough Module
 <div>
   <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/7b5a28be-5452-4189-af7b-61c19f685c1d" width="300">
@@ -42,3 +43,31 @@ About Application
   <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/546d49eb-5591-4f15-bffb-29e0be1fc311" width="300">
   <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/e5a6ca8d-89d1-4497-b005-6ca8453c072a" width="300">
 </div>
+
+## Installation
+### 1. Clone the repo
+```
+git clone https://github.com/MohammedAttia3104/iti_final_project.git
+cd iti_final_project
+```
+### 2. Run pub get
+```
+flutter pub get
+```
+### 3. Run the app
+```
+flutter run
+```
+
+## Packages
+* [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+* [cached_network_image](https://pub.dev/packages/cached_network_image)
+* [loading_animation_widget](https://pub.dev/packages/loading_animation_widget)
+* [image_picker](https://pub.dev/packages/image_picker)
+* [carousel_slider](https://pub.dev/packages/carousel_slider)
+* [awesome_dialog](https://pub.dev/packages/awesome_dialog)
+* [firebase_core](https://pub.dev/packages/firebase_core)
+* [firebase_auth](https://pub.dev/packages/firebase_auth)
+* [firebase_storage](https://pub.dev/packages/firebase_storage)
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc)
