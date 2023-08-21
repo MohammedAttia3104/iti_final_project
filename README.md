@@ -1,16 +1,44 @@
-# iti_final_project
+# ITI Final Project
 
-A new Flutter project.
+this project made with flutter using Cubit, Firebase Authintication, Firebase Firestore, FirebaseStorage
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Add-Romove Product
+Show Categores
+Show ProductList
+Show Developer Data
+About Application
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
+### 1- WalkThrough Module
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/7b5a28be-5452-4189-af7b-61c19f685c1d" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/5408c717-9c58-4a31-a7de-fe250b5cdb43" width="300">
+</div>
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/d8574316-4c91-43b7-97e7-6cf85107e429" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/c8de547b-11b4-41e8-a4dd-916057653778" width="300">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2- Login/Register Module
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/24be94e5-8954-4cef-b28b-b68da139ac45" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/ba4dcaf1-6166-4ff0-a62d-7d68d6babccf" width="300">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3- Products Module
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/95deff57-2f8e-498e-8f08-9fb7aad8999a" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/f8979d0c-6ded-4154-8b0d-fed9def7c7e9" width="300">
+</div>
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/1bbbb3b9-c133-4689-9aae-7480fc83c708" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/2bbedd38-b74f-4264-9b59-68a53c7d4810" width="300">
+</div>
+
+### 4- Profile Module
+<div>
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/546d49eb-5591-4f15-bffb-29e0be1fc311" width="300">
+  <img src="https://github.com/MohammedAttia3104/iti_final_project/assets/87551010/e5a6ca8d-89d1-4497-b005-6ca8453c072a" width="300">
+</div>
